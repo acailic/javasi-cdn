@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Error>
+  <Code>NoSuchKey</Code>
+  <Message>The specified key does not exist.</Message>
+  <RequestId>6A7A6D264EB00032348E8EE7</RequestId>
+  <HostId>itwanger-oss.oss-cn-beijing.aliyuncs.com</HostId>
+  <Key>tobebetterjavaer/images/basic-extra-meal/jdk9-char-bajt-string-d826ce88-bbbe-47a3-a1a9-4dd86dd3632f.png</Key>
+  <EC>0026-00000001</EC>
+  <RecommendDoc>https://api.aliyun.com/troubleshoot?q=0026-00000001</RecommendDoc>
+</Error>
